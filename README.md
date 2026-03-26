@@ -2,6 +2,11 @@
 
 Demo project to show how to use Preact with Bun.
 
+Followed these steps to create this project:
+
+1. `bun init` with "Blank".
+2. `bun add preact` to add Preact as a dependency.
+3. Modified settings in *.json files.
 
 To install dependencies:
 
